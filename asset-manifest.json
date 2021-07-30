@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/movie-searce/static/css/main.a617e044.chunk.css",
-    "main.js": "/movie-searce/static/js/main.3e70ea71.chunk.js",
-    "main.js.map": "/movie-searce/static/js/main.3e70ea71.chunk.js.map",
+    "main.js": "/movie-searce/static/js/main.7067f0fb.chunk.js",
+    "main.js.map": "/movie-searce/static/js/main.7067f0fb.chunk.js.map",
     "runtime-main.js": "/movie-searce/static/js/runtime-main.9f3277e8.js",
     "runtime-main.js.map": "/movie-searce/static/js/runtime-main.9f3277e8.js.map",
     "static/js/2.61f479e2.chunk.js": "/movie-searce/static/js/2.61f479e2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9f3277e8.js",
     "static/js/2.61f479e2.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.3e70ea71.chunk.js"
+    "static/js/main.7067f0fb.chunk.js"
   ]
 }
