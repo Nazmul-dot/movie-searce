@@ -21,7 +21,7 @@ const Movie = () => {
     return (
         <>
             <h1 className='text-center mt-5 text-capitalize text-shadow fw-bolder ms-3 h-100
-            animate__animated animate__bounce' style={{ color: '#20c997' }}>search your favourit food 📽️</h1>
+            animate__animated animate__bounce' style={{ color: '#20c997' }}>search your favourit Movie 📽️</h1>
             <div className='container mt-5'>
                 <div className='row' >
                     <div className='col-md-6  mx-auto'>
