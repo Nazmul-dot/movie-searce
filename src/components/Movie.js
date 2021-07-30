@@ -21,7 +21,7 @@ const Movie = () => {
     return (
         <>
             <h1 className='text-center mt-5 text-capitalize text-shadow fw-bolder ms-3 h-100
-            animate__animated animate__bounce' style={{ color: '#20c997' }}>search your favourit Movie 📽️</h1>
+            animate__animated animate__bounce' style={{ color: '#20c997' }}>Search your favourit Movie 📽️</h1>
             <div className='container mt-5'>
                 <div className='row' >
                     <div className='col-md-6  mx-auto'>
@@ -31,7 +31,7 @@ const Movie = () => {
                                     placeholder="food" onChange={(e) => setmovie(e.target.value)}
                                     value={movie}
                                 />
-                                <label for="floatingInput" className='ms-3'>Food Name</label>
+                                <label for="floatingInput" className='ms-3'>Movie Name</label>
                             </div>
                             <div className='col-5  mx-auto'>
                                 <input type="submit" value='Search' class="form-control btn btn-info" aria-label="First name"
